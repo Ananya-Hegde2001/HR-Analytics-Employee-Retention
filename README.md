@@ -99,6 +99,8 @@ Implementing advanced NLP techniques for better text-based analysis.
 
 Enhanced UI with dynamic filtering options.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+<h2 align="center"><a href="" target="_blank">Visit The App</a></h2>
